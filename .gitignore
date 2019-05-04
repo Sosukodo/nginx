@@ -1,0 +1,5 @@
+Makefile
+deps/openssl-1.1.1b/
+deps/pcre-8.42/
+deps/zlib-1.2.11
+objs/
