@@ -16,7 +16,6 @@ Prior to compiling NGINX Open Source from source, you need to install libraries 
     $ cd pcre-8.42
     $ ./configure
     $ make -j4
-    $ sudo make install
 
 ##### zlib
 *Required by the NGINX Gzip module.*
@@ -25,7 +24,6 @@ Prior to compiling NGINX Open Source from source, you need to install libraries 
     $ cd zlib-1.2.11
     $ ./configure
     $ make -j4
-    $ sudo make install
 
 ##### OpenSSL
 *Required by the NGINX SSL module and others.*
