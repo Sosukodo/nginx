@@ -1,6 +1,8 @@
 ## Compiling and Installing from Source
 Compiling NGINX Open Source from source affords more flexibility than prebuilt packages: you can add particular modules (from NGINX or third parties), and apply latest security patches.
 
+*Adapted from official [NGINX  Documentation](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#sources)*
+
 	$ git clone https://github.com/Sosukodo/nginx.git
 	$ cd nginx
 
